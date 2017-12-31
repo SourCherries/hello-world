@@ -1,2 +1,3 @@
 # hello-world
 Exploring GIT.
+I am a vision scientist who is currently interested in what I call 'domain-specific image statistics', an approach that borrows loosely from the natural image statistics literature but aims to study unnatural but familiar images. To that end, I am learning more about probabilistic graphical models and python programming. Those topics may also be of great value to me if I decide to leave acadamia and enter into industry as a data scientist. That is an attractive option right now because of the greater range of opportunity and the focus on tangible results. My name is Carl Michael Gaspar.
